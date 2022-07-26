@@ -20,4 +20,4 @@
 ## Azure
 <img width="960" alt="Azure" src="https://user-images.githubusercontent.com/107340717/180969821-b4b623e1-f8da-4e84-9ab9-d8dec62e9345.png">
 
-## Youtube Link :-
+## Youtube Link :- https://youtu.be/g7dN8zPrLFU
