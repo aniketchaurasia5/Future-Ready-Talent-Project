@@ -3,7 +3,7 @@
  
  ## My Website Link :- https://zealous-moss-0353eac10.1.azurestaticapps.net/
  ## Youtube Link :- https://youtu.be/g7dN8zPrLFU
- ## Repo. Link :- https://github.com/aniketchaurasia5/Future-Ready-Talent-Project.git
+ ## Repo. Link :- https://github.com/aniketchaurasia5/Future-Ready-Talent-Project
  
  ## Home Page
  <img width="960" alt="Home Page 1" src="https://user-images.githubusercontent.com/107340717/180969025-1c91e695-3452-490f-97e5-b92bc248cced.png">
